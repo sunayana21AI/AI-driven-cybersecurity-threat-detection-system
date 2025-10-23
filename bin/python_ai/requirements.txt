@@ -1,0 +1,8 @@
+dash>=3.0.0
+dash-bootstrap-components
+plotly
+pandas
+mysql-connector-python
+joblib
+scikit-learn
+requests
